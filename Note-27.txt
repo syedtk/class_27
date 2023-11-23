@@ -1,0 +1,36 @@
+01. What is Bubble of javascript?
+        
+Event bubbling directs an event to its target. It works like this:
+
+    ** When an element (like a button) is clicked, an event is directed to the element.
+    ** If an event handler is set for the element, the event handler is triggered.
+    ** Then the event "bubbles up" to the elements parent.
+    ** If an event handler is set for the parent, this event handler is triggered.
+    ** The event continues to bubble, until it reaches the top (the document element).to as event bubbling.
+
+
+
+
+02. what is delegation of javascript
+        Delegation in JavaScript refers to the concept of handling events by assigning a single event listener to a parent element rather than attaching multiple event listeners to individual child elements. This approach leverages event bubbling, where an event occurring on a nested element will "bubble up" through its ancestors.
+
+
+
+03. Comment Box
+04. Matching delete option
+05. ul clickey options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
